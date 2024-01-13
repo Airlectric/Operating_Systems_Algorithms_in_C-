@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698929447 source:c:\users\daniel\desktop\l300 first semester\operating systems\10956661_doe_lab2\systemcallsinterface\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"SystemCall.h"
+
+1698923240 c:\users\daniel\desktop\l300 first semester\operating systems\10956661_doe_lab2\systemcallsinterface\systemcall.h
+
+1698929853 source:c:\users\daniel\desktop\l300 first semester\operating systems\10956661_doe_lab2\systemcallsinterface\systemcall.cpp
+	"SystemCall.h"
+	<iostream>
+	<limits>
+
